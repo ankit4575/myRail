@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myRail/static/css/main.9843ac82.chunk.css",
-    "main.js": "/myRail/static/js/main.b7dad0a4.chunk.js",
-    "main.js.map": "/myRail/static/js/main.b7dad0a4.chunk.js.map",
+    "main.js": "/myRail/static/js/main.31c703a2.chunk.js",
+    "main.js.map": "/myRail/static/js/main.31c703a2.chunk.js.map",
     "runtime-main.js": "/myRail/static/js/runtime-main.c7cb72ba.js",
     "runtime-main.js.map": "/myRail/static/js/runtime-main.c7cb72ba.js.map",
     "static/css/2.1a02f21c.chunk.css": "/myRail/static/css/2.1a02f21c.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.d8843e62.chunk.js",
     "static/css/main.9843ac82.chunk.css",
-    "static/js/main.b7dad0a4.chunk.js"
+    "static/js/main.31c703a2.chunk.js"
   ]
 }
